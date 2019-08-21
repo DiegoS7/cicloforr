@@ -6,7 +6,6 @@ namespace ciclofor
     {
         static void Main(string[] args)
         {
-            //ooooooh yea.
             int x, y, z;
             Console.WriteLine("Imprime los numeros del X hasta Y de -1");
 
